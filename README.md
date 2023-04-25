@@ -38,7 +38,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/joeboykin/W4-P1-Fixster/blob/dd4b41439a72c2e372a5b723e5491c098a4c92ab/Flixster1_W4_P3.gif' title='Flixster-1 Video Walkthrough' width='' alt='Flixster 1 Video Walkthrough' />
+<img src='https://github.com/joeboykin/W4-P1-Fixster/blob/dd4b41439a72c2e372a5b723e5491c098a4c92ab/Flixster1_W4_P3.gif'title='Flixster-1 Video Walkthrough' width='' alt='Flixster 1 Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) for macOS
