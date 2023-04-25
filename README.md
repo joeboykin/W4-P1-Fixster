@@ -1,6 +1,6 @@
 # W4 P1 Fixster
 
-# Android Project 3 - W4 P1Fixster
+# Android Project 3 - W4 P1 Fixster
 
 Submitted by: Joseph Boykin
 
@@ -28,21 +28,29 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
-- [ ] The app is not functioning properly
+- [x] N/A
+
+The following **additional** features are implemented:
+
+* [x] N/A
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-## Notes: Challenges
+<img src='https://github.com/joeboykin/W4-P1-Fixster/blob/dd4b41439a72c2e372a5b723e5491c098a4c92ab/Flixster1_W4_P3.gif' title='Flixster-1 Video Walkthrough' width='' alt='Flixster 1 Video Walkthrough' />
 
-Describe any challenges encountered while building the app.
-- [ ] The Movie Database website is unclear on how to sign up and access the API key.
-- [ ] I could not connect properly to the database
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with [Kap](https://getkap.co/) for macOS
+
+
+## Notes
+
+- [x] Syntax challenges such as indentation and brackets.
 
 ## License
 
-    Copyright [4/19/23] [Joseph Boykin]
+    Copyright [2023] [Joseph Boykin]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
